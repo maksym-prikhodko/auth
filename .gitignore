@@ -1,0 +1,8 @@
+.rpt2_cache
+node_modules
+dist
+coverage
+stats.html
+cypress/screenshots
+cypress/videos
+.idea/
